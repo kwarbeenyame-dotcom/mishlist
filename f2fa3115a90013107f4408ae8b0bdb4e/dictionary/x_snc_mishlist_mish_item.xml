@@ -2,6 +2,8 @@
     <element db_object_id="ef2bf115a90013107f4408ae8b0bdb69" label="Mish item" max_length="40" name="x_snc_mishlist_mish_item" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Requester" mandatory="true" max_length="40" name="requester" type="string"/>
-        <element label="Item" mandatory="true" max_length="125" name="item" type="string"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element label="URL" max_length="1024" name="url" type="url"/>
+        <element display="true" label="Item" mandatory="true" max_length="125" name="item" type="string"/>
     </element>
 </database>

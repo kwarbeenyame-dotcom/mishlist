@@ -16,7 +16,7 @@
         <delete_roles/>
         <dependent/>
         <dependent_on_field/>
-        <display>false</display>
+        <display>true</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
         <dynamic_default_value/>
@@ -53,7 +53,7 @@
         <sys_scope display_value="Mishlist">f2fa3115a90013107f4408ae8b0bdb4e</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_mishlist_mish_item_item</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-10-19 15:38:35</sys_updated_on>
+        <sys_updated_on>2026-10-20 12:35:54</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
