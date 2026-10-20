@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_snc_mishlist.MishList</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>MishList</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-20 11:58:03</sys_created_on>
+        <sys_id>b4331a6dec4013107f4482191633da1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_mishlist.MishList</sys_name>
+        <sys_package display_value="Mishlist" source="x_snc_mishlist">f2fa3115a90013107f4408ae8b0bdb4e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mishlist">f2fa3115a90013107f4408ae8b0bdb4e</sys_scope>
+        <sys_update_name>sys_alias_b4331a6dec4013107f4482191633da1e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-20 11:58:03</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>
